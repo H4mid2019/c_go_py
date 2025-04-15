@@ -36,7 +36,7 @@ The task involves generating all Fibonacci numbers from F(0) up to F(15).
 
 1.  **Clone the Repository:**
     ```bash
-    git clone <your-repo-url>
+    git clone git@github.com:H4mid2019/c_go_py.git
     cd c_go_py
     ```
 
